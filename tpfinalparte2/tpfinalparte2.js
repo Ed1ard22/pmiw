@@ -1,7 +1,7 @@
 /*
 Leonel Brianese 93490/3 y Eduardo Toranza 122922/3
 Comision 3
-https://www.youtube.com/watch?v=iUcVR2reDOQ (tuve que poner el video en x1.5 porque pasaba los 5 minutos, por eso cuando muestro el juego no detecta la pantalla verde durante la colision)
+
 */
 let P;
 let sonido;
@@ -41,3 +41,4 @@ function keyPressed() {
 function mousePressed() {
   P.AcBotones();
 }
+
